@@ -1,4 +1,26 @@
-.section2 p{
+.section2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    justify-items: center;
+}
+.section2 h2{
     font-size: 36px;
     color: #1f2937;
+}
+.picture{
+    border: solid #3882f6 0.2em;
+    border-radius: 0.5em;
+    max-width: 6rem;
+    min-height: 6rem;
+}
+.card p{
+    font-size: 0.8rem;
 }

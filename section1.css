@@ -13,6 +13,7 @@
     padding: 2em;
 }
 .section1 h1{
+    margin: 0;
     font-size: 48px;
     color: #f9faf8;
 }
