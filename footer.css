@@ -1,0 +1,6 @@
+footer{
+    display: flex;
+    background-color: #1f2937;
+    color: white;
+    justify-content: center;
+}

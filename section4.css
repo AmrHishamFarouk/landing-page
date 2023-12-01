@@ -1,0 +1,32 @@
+.section4{
+    background-color: #3882f6;
+    border-radius: 1rem;
+    color: white;
+    margin: 3em 6em;
+    display: flex;
+    gap: 2em;
+    align-content: center;
+    justify-content: space-evenly;
+    flex: auto;
+}
+.section4 text{
+    display: flex;
+    gap: 1em;;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.section4 h3{
+    margin: 1em em0;
+}
+.section4 h4{
+    margin: 1em 0;
+}
+.section4 button{
+    justify-self: center;
+    align-self: center;
+    background-color: #3882f6;
+    color: white;
+    border: solid white 0.2em;
+    border-radius: 0.5em;
+    padding: .4em 2em;
+}
